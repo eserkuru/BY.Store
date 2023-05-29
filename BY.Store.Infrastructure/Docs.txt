@@ -1,0 +1,11 @@
+﻿***********************************************
+Altyapı katmanı, uygulamanın tüm veri ihtiyacını
+karşılayacak kütüphane ve sınıfların barındırıldığı
+katmandır. ORM, Depolama, Dosya, Dış kaynak verileri
+vb. tüm kaynaklara erişim bu katmandan sağlanmaktadır.
+***********************************************
+
+1.	DataAccess
+	ORM araçlarının projeye dahil edilerek yönetildiği
+	kısımdır. Veri tabanı işlemleri için Repository 
+	sınıflarını barındırmaktadır.

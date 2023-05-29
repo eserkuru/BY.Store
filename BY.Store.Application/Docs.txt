@@ -1,0 +1,34 @@
+﻿***********************************************
+Uygulama katmanı, projedeki iş mantıklarını ve 
+bunu destekleyen araçlardan oluşmaktadır.
+***********************************************
+
+1.	Interfaces
+	Proje içerisinde yer alan nesnelere ve metotlara imza ve kimlik 
+	tanımı oluşturabilecek arayüzlerin toplandığı alandır.
+
+2.	Base
+	Uygulama katmanında ortak değerlerle taban oluşturan sınıfları
+	barındırmaktadır.
+
+3.	Dtos
+	Son kullanıcı ile veri tabanı arasında veri tabanı nesnelerinin 
+	korunması ve daha optimize nesneler kullanıması amacıyla dönüşüm 
+	nesnelerinin toplandığı alandır.
+
+4.	Mappings
+	Nesneler arasında nesnelerin özelliklerinin birbiriyle eşletirilme 
+	yapıldığı nesnelerin toplandığı alandır.
+
+5.	Validations
+	Dışardan gelen nesneler iş bloklarına gönderilmeden önce verilerin 
+	uygunluğunu denetleyen doğrulama ve kontrol sınıflarının toplandığı 
+	alandır.
+
+6. Injections
+	Uygulamanın bağımlılıklarının yönetildiği kısımdır. Çeşitli IoC'ler
+	buradan uygulanabilir.
+
+7. Services
+	Uygulamanın iş kodlarının geliştirildiği kısımdır. İhtiyaç duyulan
+	tüm mantık kodlarının geliştirilmesi burada yapılmaktadır.

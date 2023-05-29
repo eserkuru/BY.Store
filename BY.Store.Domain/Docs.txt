@@ -1,0 +1,12 @@
+﻿***********************************************
+Domain katmanı, uygulamanın ihtiyaç duyduğu tüm 
+varlık nesnelerinin barındırıldığı kısımdır.
+***********************************************
+
+1.	Entities
+	Veri tablolarına karşılık gelen sınıflardan
+	oluşmaktadır.
+
+2.	Base
+	Domain katmanında ortak değerlerle taban oluşturan sınıfları
+	barındırmaktadır.

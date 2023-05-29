@@ -1,0 +1,11 @@
+﻿***********************************************
+Bu kütüphane geliştirilecek tüm projeler için
+bir araç kutusu gibi içerisinde ortak olarak
+kullanılacak framework çerçevesinde hazır sınıfları
+barındırmaktadır.
+***********************************************
+
+1.	Responses
+	Proje içerisinde katmanların birbirlerine veya
+	son kullanıcıya göndereceği cevap nesnelerini
+	barındırmaktadır.

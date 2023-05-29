@@ -1,0 +1,16 @@
+﻿***********************************************
+Bu proje tüm katmanları desteklemek amacıyla 
+planlanmış ortak ve yardımcı nesneleri içermektedir.
+Ayrıca iletişim kurmaması gereken katmanlar arasında 
+iletişim sağlamayı da amaçlamaktadır.
+***********************************************
+
+1.	Constants
+	Proje içerisindeki Magic String ifadeleri engellemek
+	ve tüm sabit metinleri bir arada yönetmek için
+	kullanılmaktadır.
+
+2. Params
+	Uygulamanın her noktasından tüm katmanlar arası veri
+	taşıma ihtiyacını karşılayacak sınıfların bulunduğu
+	alandır.
